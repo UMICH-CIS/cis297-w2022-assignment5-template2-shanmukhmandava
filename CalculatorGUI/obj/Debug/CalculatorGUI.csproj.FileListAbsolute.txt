@@ -17,3 +17,14 @@ C:\Users\DrunkenSoul\Desktop\cis297-w2022-assignment5-template2-shanmukhmandava-
 C:\Users\DrunkenSoul\Desktop\cis297-w2022-assignment5-template2-shanmukhmandava-main\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.CoreCompileInputs.cache
 C:\Users\DrunkenSoul\Desktop\cis297-w2022-assignment5-template2-shanmukhmandava-main\CalculatorGUI\obj\Debug\CalculatorGUI.exe
 C:\Users\DrunkenSoul\Desktop\cis297-w2022-assignment5-template2-shanmukhmandava-main\CalculatorGUI\obj\Debug\CalculatorGUI.pdb
+C:\Users\DrunkenSoul\Downloads\cis297-w2022-assignment5-template2-shanmukhmandava-main-2\CalculatorGUI\bin\Debug\CalculatorGUI.exe.config
+C:\Users\DrunkenSoul\Downloads\cis297-w2022-assignment5-template2-shanmukhmandava-main-2\CalculatorGUI\bin\Debug\CalculatorGUI.exe
+C:\Users\DrunkenSoul\Downloads\cis297-w2022-assignment5-template2-shanmukhmandava-main-2\CalculatorGUI\bin\Debug\CalculatorGUI.pdb
+C:\Users\DrunkenSoul\Downloads\cis297-w2022-assignment5-template2-shanmukhmandava-main-2\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.AssemblyReference.cache
+C:\Users\DrunkenSoul\Downloads\cis297-w2022-assignment5-template2-shanmukhmandava-main-2\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\DrunkenSoul\Downloads\cis297-w2022-assignment5-template2-shanmukhmandava-main-2\CalculatorGUI\obj\Debug\CalculatorGUI.CalculatorGUIForm.resources
+C:\Users\DrunkenSoul\Downloads\cis297-w2022-assignment5-template2-shanmukhmandava-main-2\CalculatorGUI\obj\Debug\CalculatorGUI.Properties.Resources.resources
+C:\Users\DrunkenSoul\Downloads\cis297-w2022-assignment5-template2-shanmukhmandava-main-2\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.GenerateResource.cache
+C:\Users\DrunkenSoul\Downloads\cis297-w2022-assignment5-template2-shanmukhmandava-main-2\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\DrunkenSoul\Downloads\cis297-w2022-assignment5-template2-shanmukhmandava-main-2\CalculatorGUI\obj\Debug\CalculatorGUI.exe
+C:\Users\DrunkenSoul\Downloads\cis297-w2022-assignment5-template2-shanmukhmandava-main-2\CalculatorGUI\obj\Debug\CalculatorGUI.pdb
